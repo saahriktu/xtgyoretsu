@@ -1,0 +1,24 @@
+XT gyoretsu - extended ncurses version of "Renshu-cho gyoretsu" game by
+Kurashov A.K. (programming, idea of random and hexadecimal modes,
+interface design, ascii-art), Kostyukov D.A. (idea) and
+Yakushev D.O. (idea of Kuangshan Yougang mode).
+Task of game - clear entire field by pairs of neighbour numbers, which must be
+or equal, or their sum must be equal to strike out sum.
+
+Controls:
+h - left
+j - down
+k - up
+l - right
+y - left-up
+u - right-up
+b - left-down
+n - right-down
+z - mark cell
+q - white flag
+R - Classic/Random modes switch
+K - Kuangshan Yougang mode on/off
+H - Decimal/Hexadecimal modes switch (unavailable in classic mode)
+Q - quit
+
+2013-2014, licensed under GNU GPLv3
